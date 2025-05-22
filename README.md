@@ -2,6 +2,8 @@
 
 Esta es una prueba técnica para el puesto de saleforce bootcamp de NTTDATA.
 
+![Imagen de la aplicacion](https://i.ibb.co/N6cxnZKm/Captura-de-pantalla-2025-05-22-154418.png)
+
 ## Desarrollado por
 
 - Cesar Ignacio Maquera Ticona
