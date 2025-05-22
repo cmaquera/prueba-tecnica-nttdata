@@ -39,9 +39,9 @@ La estructura del proyecto es la siguiente:
 ## Como usar
 
 - Abrir el navegador
-- ir a http://localhost:3000
-- listar a 10 personas aleatorias
-- filtrar por nombre
-- filtrar por genero
+- Ir a http://localhost:3000
+- Listar a 10 personas aleatorias
+- Filtrar por nombre
+- Filtrar por genero
 
 
